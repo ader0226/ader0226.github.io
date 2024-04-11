@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@700&family=Ubuntu:wght@500&display=swap'); 
+.title{
+    background-color: blue;
+    font-size: 32px;
+    font-weight: bold;
+    color: aliceblue;
+    text-align: center;
+    padding: 10px;
+    font-family: 'Noto Sans TC', sans-serif;
+}
+
+.content{
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.box{
+    width: 280px;
+    padding: 10px;
+    margin :10px;
+    background-color: wheat;
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+}
